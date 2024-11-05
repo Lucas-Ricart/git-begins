@@ -1,6 +1,0 @@
-git clone [url]
-git remote add origin [url]
-git  commit -m ""
-git push -u origin main
-git branch
-git checkout
